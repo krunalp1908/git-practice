@@ -1,6 +1,6 @@
 def myFunction():
-    a = 5
-    return a 
+    
+    return "Hello dosto"
 
-
-myFunction()
+if __name__ == "__main__":
+    print(myFunction())
